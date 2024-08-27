@@ -1,0 +1,17 @@
+{
+    "name": "joselopez/traits",
+    "type": "porject",
+    "license":"MIT",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "joselopez"
+        }
+    ],
+    "autoload":{
+        "psr-4":{
+            "App\\":"app/"
+        }
+    },
+    "require": {}
+}
